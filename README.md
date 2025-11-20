@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadafayan&label=Profile%20views&color=0e75b6&style=flat" alt="nadafayan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadafayan" alt="nadafayan" /></a> </p>
 
 - 🔭 I’m currently working on [BloodShare - A blood donation flatform featuring blockchain.](https://bloodshare.vercel.app/)
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **nadafayan95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YocMh5grnSkEeR4uKxwajGBn4rqzNbsA/view?usp=sharing](https://drive.google.com/file/d/1YocMh5grnSkEeR4uKxwajGBn4rqzNbsA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YocMh5grnSkEeR4uKxwajGBn4rqzNbsA/view?usp=sharing)
 
 - ⚡ Fun fact **I am very eager to learn and try new things.**
 
@@ -30,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadafayan&show_icons=true&locale=en" alt="nadafayan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadafayan&" alt="nadafayan" /></p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
