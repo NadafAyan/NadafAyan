@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadafayan&label=Profile%20views&color=0e75b6&style=flat" alt="nadafayan" /> </p>
 
 
-- 🔭 I’m currently working on [BloodShare - A blood donation flatform featuring blockchain.](https://bloodshare.vercel.app/)
+- 🔭 I’m currently working on [RefineAI - AI based prompt enhancer.](https://refineai-ayan.vercel.app/)
 
 - 🌱 I’m currently learning **Blockchain**
 
